@@ -1,4 +1,4 @@
 {
-  REPO: "Artifactory"
+  REPO: "Artifactory",
   JDK_VERSION: "1.8"
 }
